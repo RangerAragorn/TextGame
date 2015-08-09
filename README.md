@@ -1,2 +1,2 @@
-# TextGame
-Just a dumb text rpg to get started with coding.
+# Basic Commands
+Whatever ends up in it
